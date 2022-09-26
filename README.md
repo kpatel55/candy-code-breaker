@@ -1,4 +1,4 @@
-# TypeScript Example
+# Candy Code Breaker
 
 <p>
   <!-- iOS -->
@@ -10,12 +10,15 @@
 </p>
 
 ```sh
-npx create-react-native-app -t with-typescript
+npm install
+npm start
 ```
 
-TypeScript is a superset of JavaScript which gives you static types and powerful tooling in Visual Studio Code including autocompletion and useful inline warnings for type errors.
+A variation on the popular Mastermind board game, built using React Native and TypeScript.
 
-## 🚀 How to use
+## 🚀 Getting Started with Typescript
+
+TypeScript is a superset of JavaScript which gives you static types and powerful tooling in Visual Studio Code including autocompletion and useful inline warnings for type errors.
 
 #### Creating a new project
 
